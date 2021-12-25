@@ -1,9 +1,12 @@
 # [Dorito Bot Discord.js](https://github.com/Aaronidk/Dorito-bot-discord.js) 
-A multipurpose Discord bot with many NSFW and fun commands as well as utility and moderation. 
-* Go to []() For a full command list.
+A multipurpose Discord bot with many NSFW and fun commands as well as utility and moderation.
+
+ UPDATE COMMING SOON FOR DISCORD JS 13 AND NEW DISCORD INTENT RULES
+* For a full command list run the bot and type .help
 * The default prefix is . so the help command would be .help 
 # [Invite the bot to your server!](https://discordapp.com/oauth2/authorize?client_id=546100087579738133&scope=bot&permissions=506588246) 
 * Use the above link if you don't want to follow the steps bellow.
+
 ### Requirements if not using the release page
 * node.js
 * Windows Build tools 2017
