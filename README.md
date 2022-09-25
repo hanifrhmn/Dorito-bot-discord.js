@@ -1,6 +1,6 @@
 # [Dorito Bot Discord.js](https://github.com/Aaronidk/Dorito-bot-discord.js) 
 A multipurpose Discord bot with many NSFW and fun commands as well as utility and moderation.
-
+[DEVELOPMENT PAUSED]
  UPDATE COMMING SOON FOR DISCORD JS 13 AND NEW DISCORD INTENT RULES
 * For a full command list run the bot and type .help
 * The default prefix is . so the help command would be .help 
