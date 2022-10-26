@@ -1,6 +1,11 @@
 {
-  "token": "INSERT YOUR TOKEN HERE",
-  "prefix": ".",
-  "clientID": "INSERT YOUR BOT ID HERE"
+  "prefix": "sk/",
+  "token": "MTAzNDgzMjcyOTE2Mzk2ODU4NA.G64YVg.qWRgqw13tuWSmMKjhgxbq3PqJ7kmDfHDI7UD78",
+  "footer": "NSFW Bot • is.gd/nsfwbot",
 
+  "msg": {
+    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "loading": "Please wait...",
+    "imageNotLoading": "Image not loading ? Click Here"
+  }
 }
